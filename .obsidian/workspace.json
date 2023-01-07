@@ -1,0 +1,172 @@
+{
+  "main": {
+    "id": "05cdb341f3fce138",
+    "type": "split",
+    "children": [
+      {
+        "id": "6bbd45d0a816fe4b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a45ceda537483cbd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cisco/Routeur/ACLs/Access-List.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7acde169c89dc3eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cisco/Routeur/ACLs/Les ACLs standards.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "df093bcc500b608a",
+    "type": "split",
+    "children": [
+      {
+        "id": "d8bf4c1d6eefa6b2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d084e6e49229f423",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "84519a0714e0c2cb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d2e7fe0c95066b2b",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d3b3e53064550c0f",
+    "type": "split",
+    "children": [
+      {
+        "id": "cfad63d261b6bf03",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "310509b4987d2390",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Cisco/Routeur/ACLs/Les ACLs standards.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "757a552fb3681fcd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Cisco/Routeur/ACLs/Les ACLs standards.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "256f7079fb304c9f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4bbc01b1fd467de1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Cisco/Routeur/ACLs/Les ACLs standards.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "7acde169c89dc3eb",
+  "lastOpenFiles": [
+    "Cisco/Routeur/ACLs/Access-List.md",
+    "Cisco/Routeur/ACLs/Les ACLs standards.md",
+    "Linux/RSysLog.md",
+    "Pasted image 20230107004400.png.md",
+    "Pasted image 20230107004400.png",
+    "Pasted image 20230107004354.png",
+    "Protocole/TCP.md"
+  ]
+}

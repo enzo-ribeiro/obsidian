@@ -2,7 +2,7 @@ Les ACLs de ce type ne sont liée qu'à l'adreese IP source. Ce sont ces ACLs qu
 
 Avec ce type d'ACLs nous pourrons autoriser ou interdire un segment de réseau ou l'adresse IP d'une machine à communiquer avec un autre segment ou autre machine. 
 
-![ACLs_Standars_1.png]
+![](ACLs_Standars_1.png)
 
 Ici toutes les machines sont sur des segments réseau différents, elles peuvent communiquer entre elles grâce à des routes. Le but ici va être d'interdire au réseau `<10.1.1.0/24>` de communiquer avec le réseau `<10.1.2.0/24>` sans interdire la communication avec le réseau `<10.1.3.0/24>`. Pour ce faire on va se rendre sur l'interface Gi0/2 afin d'interdire les paquets en provenance du réseau `<10.1.1.0/24>`.
 ```IOS

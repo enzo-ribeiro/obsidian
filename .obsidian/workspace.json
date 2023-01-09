@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cisco/Routeur/ACLs/Les ACLs standards.md",
+                "file": "Linux/Chrony.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cisco/Routeur/ACLs/Les ACLs standards.md",
+                "file": "Linux/Chrony.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cisco/Routeur/ACLs/Les ACLs standards.md",
+                "file": "Linux/Chrony.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cisco/Routeur/ACLs/Les ACLs standards.md"
+                "file": "Linux/Chrony.md"
               }
             }
           }
@@ -149,15 +149,15 @@
   },
   "active": "ecc398774d9d5bb5",
   "lastOpenFiles": [
-    "Cisco/Routeur/ACLs/ACLs_Standars_OK3.png",
-    "Cisco/Routeur/ACLs/ACLs_Standars_1.png",
     "Linux/TFTP.md",
-    "Cisco/Réinitialisation Switch IOS.md",
-    "Linux/Chrony.md",
-    "TP/M2L.md",
+    "Linux/RSysLog.md",
     "Cisco/VLAN/Création de VLAN (IOS).md",
     "Cisco/VLAN/Mettre un port dans un VLAN.md",
-    "_VLAN.md",
-    "Zz Méthode LYT.md"
+    "Cisco/Changer la location de Log.md",
+    "Cisco/Réinitialisation Switch IOS.md",
+    "Cisco/Changer le serveur NTP.md",
+    "Cisco/Routeur/ACLs/Les ACLs standards.md",
+    "Cisco/Routeur/ACLs/ACLs_Standars_OK3.png",
+    "Cisco/Routeur/ACLs/ACLs_Standars_1.png"
   ]
 }

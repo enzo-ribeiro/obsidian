@@ -50,7 +50,7 @@ chmod 777 /tftpboot/<nom_du_routeur-ou-switch
 Ensuite nous nous redons sur le Switch/Routeur :
 ```IOS
 Switch> en
-Switch> copy running-config tftp
+Switch# copy running-config tftp
 ## Cette commande vous posera 2 question:
 1- @ IP du TFTP
 2- La destination du fichier soit /tftpboot/<nom_du_routeur-ou-switch>

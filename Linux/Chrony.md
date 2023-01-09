@@ -17,7 +17,7 @@ pool 2.debian.pool.ntp.org iburst
 ```
 devient :
 ```shell
-#pool 2.debian.pool.ntp.org iburst"
+#pool 2.debian.pool.ntp.org iburst
 ```
 et maintenant nous pouvons ajouter nos pool en entrant les lignes suivantes :
 ```shell

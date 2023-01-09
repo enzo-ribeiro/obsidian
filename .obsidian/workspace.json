@@ -1,52 +1,35 @@
 {
   "main": {
-    "id": "05cdb341f3fce138",
+    "id": "dfcb30fbf262355a",
     "type": "split",
     "children": [
       {
-        "id": "6bbd45d0a816fe4b",
+        "id": "bb92121f0c93621d",
         "type": "tabs",
         "children": [
           {
-            "id": "a45ceda537483cbd",
+            "id": "58a8005814dd2fc3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cisco/Routeur/ACLs/Access-List.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7acde169c89dc3eb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cisco/Routeur/ACLs/Les ACLs standards.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "df093bcc500b608a",
+    "id": "6c50ed8fa51004c2",
     "type": "split",
     "children": [
       {
-        "id": "d8bf4c1d6eefa6b2",
+        "id": "dace664458cb1cbc",
         "type": "tabs",
         "children": [
           {
-            "id": "d084e6e49229f423",
+            "id": "c4026de93f1e20a3",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -56,7 +39,7 @@
             }
           },
           {
-            "id": "84519a0714e0c2cb",
+            "id": "9a445d9b6f5e8a0f",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -71,7 +54,7 @@
             }
           },
           {
-            "id": "d2e7fe0c95066b2b",
+            "id": "6700fc45a4146511",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -85,20 +68,19 @@
     "width": 300
   },
   "right": {
-    "id": "d3b3e53064550c0f",
+    "id": "ea955d1e82e902cf",
     "type": "split",
     "children": [
       {
-        "id": "cfad63d261b6bf03",
+        "id": "f9622319eb663d93",
         "type": "tabs",
         "children": [
           {
-            "id": "310509b4987d2390",
+            "id": "dce3362ceb0debab",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cisco/Routeur/ACLs/Les ACLs standards.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,19 +92,18 @@
             }
           },
           {
-            "id": "757a552fb3681fcd",
+            "id": "d2c3a109ac9947b8",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cisco/Routeur/ACLs/Les ACLs standards.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "256f7079fb304c9f",
+            "id": "a4098a3d93cd383f",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -133,13 +114,11 @@
             }
           },
           {
-            "id": "4bbc01b1fd467de1",
+            "id": "93319c42a8ca3633",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Cisco/Routeur/ACLs/Les ACLs standards.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -159,14 +138,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7acde169c89dc3eb",
+  "active": "58a8005814dd2fc3",
   "lastOpenFiles": [
-    "Cisco/Routeur/ACLs/Access-List.md",
+    "Cisco/Routeur/ACLs/ACLs_Standars_1.png",
     "Cisco/Routeur/ACLs/Les ACLs standards.md",
-    "Linux/RSysLog.md",
-    "Pasted image 20230107004400.png.md",
-    "Pasted image 20230107004400.png",
-    "Pasted image 20230107004354.png",
-    "Protocole/TCP.md"
+    "Cisco/Routeur/ACLs/ACLs_Standars_pas_OK.png"
   ]
 }

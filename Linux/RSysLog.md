@@ -1,3 +1,7 @@
+---
+dg-publish: true
+dg-home: false
+---
 Avant tout il faut savoir que RSysLog est natif sur debian donc pas besoin de l'installer. 
 Il faut juste le configurer le fichier `<rsyslog.conf>` pour ca nous allons nous rendre dans le dossier `<etc>`.
 ```shell

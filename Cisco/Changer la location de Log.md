@@ -1,3 +1,7 @@
+---
+dg-publish: true
+dg-home: false
+---
 
 Pour ce TP nous utilisons un serveur RSysLog hébergé par une machine debian. 
 ```IOS

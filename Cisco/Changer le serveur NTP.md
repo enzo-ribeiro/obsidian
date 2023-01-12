@@ -1,3 +1,7 @@
+---
+dg-publish: true
+dg-home: false
+---
 Le serveur NTP est hébergé sur une machine virtuelle Debian 10.
 On se retoruve sur mon Switch :
 ```IOS

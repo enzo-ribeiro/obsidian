@@ -1,0 +1,26 @@
+{
+  "githubRepo": "notes-sio",
+  "githubToken": "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",
+  "githubUserName": "enzo-ribeiro",
+  "gardenBaseUrl": "https://leafy-dragon-803a03.netlify.app",
+  "prHistory": [],
+  "theme": "{\"name\":\"GitHub theme\",\"author\":\"krios2146\",\"repo\":\"krios2146/obsidian-github\",\"screenshot\":\"thumbnail.png\",\"modes\":[\"dark\",\"light\"],\"cssUrl\":\"https://raw.githubusercontent.com/krios2146/obsidian-github/HEAD/theme.css\"}",
+  "baseTheme": "dark",
+  "faviconPath": "D:\\SIO_2022-2023\\myfavicon.svg",
+  "showRibbonIcon": true,
+  "noteSettingsIsInitialized": true,
+  "siteName": "Notes-SIO",
+  "slugifyEnabled": true,
+  "defaultNoteSettings": {
+    "dgHomeLink": true,
+    "dgPassFrontmatter": false,
+    "dgShowBacklinks": true,
+    "dgShowLocalGraph": true,
+    "dgShowInlineTitle": true,
+    "dgShowFileTree": true,
+    "dgEnableSearch": true,
+    "dgShowToc": true,
+    "dgLinkPreview": true,
+    "dgShowTags": true
+  }
+}

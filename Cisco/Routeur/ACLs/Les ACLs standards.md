@@ -1,3 +1,7 @@
+---
+dg-publish: true
+dg-home: false
+---
 Les ACLs de ce type ne sont liée qu'à l'adresse IP source. Ce sont ces ACLs qui sont identifiables par les ID de 1 à 99 et 1300 à 1999.
 
 Avec ce type d'ACLs nous pourrons autoriser ou interdire un segment de réseau ou l'adresse IP d'une machine à communiquer avec un autre segment ou autre machine. 

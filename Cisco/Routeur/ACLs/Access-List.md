@@ -1,3 +1,7 @@
+---
+dg-publish: true
+dg-home: false
+---
 ## C'est quoi les ACLs ?
 (Source : www.it-connect/les-listes-de-controle-dacces-acl-avec-cisco/)
 

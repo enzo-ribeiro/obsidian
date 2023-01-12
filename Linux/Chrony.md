@@ -1,4 +1,7 @@
-
+---
+dg-publish: true
+dg-home: false
+---
 Sur une machine Debian 10 installer un serveur NTP
 ```bash
 sudo -s

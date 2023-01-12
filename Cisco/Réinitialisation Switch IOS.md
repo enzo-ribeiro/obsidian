@@ -1,3 +1,7 @@
+---
+dg-publish: true
+dg-home: false
+---
 Ce tuto va servir au cas où il y'a un mot de passe qui bloque l'accès au Switch que vous désirez configurer. En effet il se peut que sur votre parcour il y'ai des switch dont vous n'avez pas le mot de passe il faudra donc executer la méthode si dessous.
 
 Pour commencer il faudra vous connectez avec un câble console (en physique) et appuyer sur le bouton `<Mode>` en façade du Switch jusqu'a ce que la LED `<SYST>` clignote. 

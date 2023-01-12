@@ -1,3 +1,7 @@
+---
+dg-publish: true
+dg-home: true
+---
 Ligue (VLAN) :
 - 80 VLAN de 32 @ (modifiable avec VLSM)
 #172.16.0.1/27 #172.16.9.254/27
@@ -22,7 +26,7 @@ Salle de ressources (VLAN "public" filaire) :
  - Amphitéatre (5 prises )
  - Salle de réunion (16 prises Ethernet)
  - Salle de convivialité (0 prise)
-#172.16.10.97/27 #172.16.126/27
+#172.16.10.97/27 #172.16.10.126/27
 
 Ecrans :
 - 4 @ (3 prises Ethernet)

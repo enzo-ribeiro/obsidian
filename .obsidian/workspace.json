@@ -8,43 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ecc398774d9d5bb5",
+            "id": "e098b72c1cf2b797",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/TFTP.md",
+                "file": "Cisco/Routeur/Routage 'on a stick'.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "02c09ecdb0a4a7a2",
+            "id": "7d4cc54fcb98560f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cisco/Changer la location de Log.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fcb092c0808ae964",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cisco/Importer une configuration TFTP.md",
+                "file": "Cisco/Switch/Comment faire un lien trunk.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cisco/Importer une configuration TFTP.md",
+                "file": "Cisco/Switch/Comment faire un lien trunk.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cisco/Importer une configuration TFTP.md",
+                "file": "Cisco/Switch/Comment faire un lien trunk.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cisco/Importer une configuration TFTP.md"
+                "file": "Cisco/Switch/Comment faire un lien trunk.md"
               }
             }
           }
@@ -173,17 +161,16 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "fcb092c0808ae964",
+  "active": "7d4cc54fcb98560f",
   "lastOpenFiles": [
+    "Cisco/Routeur/Routage 'on a stick'.md",
+    "Cisco/Switch/Comment faire un lien trunk.md",
+    "Cisco/Importer une configuration TFTP.md",
+    "Cisco/Changer la location de Log.md",
     "Cisco/Routeur/ACLs/Les ACLs standards.md",
     "_templates/template1.md",
-    "Cisco/Importer une configuration TFTP.md",
     "Linux/TFTP.md",
     "TP/M2L.md",
-    "Cisco/Changer la location de Log.md",
-    "Cisco/Réinitialisation Switch IOS.md",
-    "Cisco/Changer le serveur NTP.md",
-    "Linux/Chrony.md",
-    "_VLAN.md"
+    "Cisco/Réinitialisation Switch IOS.md"
   ]
 }

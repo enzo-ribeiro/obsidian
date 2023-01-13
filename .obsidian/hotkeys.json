@@ -22,5 +22,13 @@
       ],
       "key": "F4"
     }
+  ],
+  "digitalgarden:publish-multiple-notes": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "E"
+    }
   ]
 }

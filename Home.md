@@ -7,17 +7,18 @@ Bienvnue sur mes notes. Je m'appelle Enzo RIBEIRO actuellement je suis en deuxi�
 
 Pour commencer nous avons les notes Cisco (probablemen tles plus importante si vous êtes en BTS): 
 
-Router :
-	ACL : 
-		- [[Access-List]]
-		- [[Les ACLs standards]]
-	- [[Routage 'on a stick']]
+ACL :
+- [[Access-List]]
+- [[Les ACLs standards]]
+- [[Routage 'on a stick']]
+
 Switch :
-	- [[Comment faire un lien trunk]]
-	- [[Réinitialisation Switch IOS]]
+- [[Comment faire un lien trunk]]
+- [[Réinitialisation Switch IOS]]
+
 VLAN : 
-	- [[Création de VLAN (IOS)]]
-	- [[Mettre un port dans un VLAN]]
+- [[Création de VLAN (IOS)]]
+- [[Mettre un port dans un VLAN]]
 - [[Changer la location de Log]]
 - [[Changer le serveur NTP]]
 - [[Importer une configuration TFTP]]
@@ -29,4 +30,6 @@ Ensuite nous avons les notes Linux :
 - [[RSysLog]]
 - [[TFTP]]
 
+```Markdown
 *Ce site est encore en cours de développement ...*
+```

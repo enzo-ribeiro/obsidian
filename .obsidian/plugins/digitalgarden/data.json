@@ -1,10 +1,10 @@
 {
   "githubRepo": "notes-sio",
-  "githubToken": "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",
+  "githubToken": "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",
   "githubUserName": "enzo-ribeiro",
   "gardenBaseUrl": "https://enzo-ribeiro.netlify.app",
   "prHistory": [],
-  "theme": "{\"name\":\"GitHub theme\",\"author\":\"krios2146\",\"repo\":\"krios2146/obsidian-github\",\"screenshot\":\"thumbnail.png\",\"modes\":[\"dark\",\"light\"],\"cssUrl\":\"https://raw.githubusercontent.com/krios2146/obsidian-github/HEAD/theme.css\"}",
+  "theme": "{\"name\":\"Minimal\",\"author\":\"kepano\",\"repo\":\"kepano/obsidian-minimal\",\"screenshot\":\"dark-simple.png\",\"modes\":[\"dark\",\"light\"],\"cssUrl\":\"https://raw.githubusercontent.com/kepano/obsidian-minimal/HEAD/theme.css\"}",
   "baseTheme": "dark",
   "faviconPath": "",
   "showRibbonIcon": true,

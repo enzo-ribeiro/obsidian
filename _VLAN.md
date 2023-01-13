@@ -1,6 +1,6 @@
 ---
 dg-publish: true
-dg-home: true
+dg-home: false
 ---
 IOS 
 - [[Création de VLAN (IOS)]]

@@ -1,6 +1,6 @@
 ---
 dg-publish: true
-dg-home: true
+dg-home: false
 ---
 Ligue (VLAN) :
 - 80 VLAN de 32 @ (modifiable avec VLSM)

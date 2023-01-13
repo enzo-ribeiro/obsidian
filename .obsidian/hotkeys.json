@@ -6,5 +6,21 @@
       ],
       "key": "T"
     }
+  ],
+  "obsidian-git:push": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "Q"
+    }
+  ],
+  "obsidian-git:backup-and-close": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "F4"
+    }
   ]
 }

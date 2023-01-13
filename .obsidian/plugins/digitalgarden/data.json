@@ -1,15 +1,15 @@
 {
   "githubRepo": "notes-sio",
-  "githubToken": "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",
+  "githubToken": "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",
   "githubUserName": "enzo-ribeiro",
   "gardenBaseUrl": "https://enzo-ribeiro.netlify.app",
   "prHistory": [],
   "theme": "{\"name\":\"Minimal\",\"author\":\"kepano\",\"repo\":\"kepano/obsidian-minimal\",\"screenshot\":\"dark-simple.png\",\"modes\":[\"dark\",\"light\"],\"cssUrl\":\"https://raw.githubusercontent.com/kepano/obsidian-minimal/HEAD/theme.css\"}",
   "baseTheme": "dark",
-  "faviconPath": "",
+  "faviconPath": "myfavicon.svg",
   "showRibbonIcon": true,
   "noteSettingsIsInitialized": true,
-  "siteName": "Notes-SIO",
+  "siteName": "RIBEIRO Enzo",
   "slugifyEnabled": true,
   "defaultNoteSettings": {
     "dgHomeLink": true,

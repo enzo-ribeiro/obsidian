@@ -2,6 +2,9 @@
 dg-publish: true
 dg-home: false
 ---
-en 
-conf t
-vlan <Numéro de VLAN>
+
+```
+Switch> en 
+Switch# conf t
+Switch(config)# vlan <Numéro_de_VLAN>
+```

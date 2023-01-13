@@ -7,10 +7,14 @@ Bienvnue sur mes notes. Je m'appelle Enzo RIBEIRO actuellement je suis en deuxi�
 
 Pour commencer nous avons les notes Cisco (probablemen tles plus importante si vous êtes en BTS): 
 
-ACL :
-- [[Access-List]]
+Router :
 - [[Les ACLs standards]]
 - [[Routage 'on a stick' ou Routage inter-VLAN]]
+- [[Faire un Etherchannel (Protocole LACP)]]
+- [[Sécurisation des ports]]
+- [[Changer la location de Log]]
+- [[Changer le serveur NTP]]
+- [[Importer une configuration TFTP]]
 
 Switch :
 - [[Comment faire un lien trunk]]

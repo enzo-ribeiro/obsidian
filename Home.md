@@ -29,7 +29,6 @@ VLAN :
 
 
 Ensuite nous avons les notes Linux :
-
 - [[Chrony]]
 - [[RSysLog]]
 - [[TFTP]]
